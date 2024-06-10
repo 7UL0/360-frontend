@@ -1,0 +1,33 @@
+[
+    {
+        "idPytania": 1,
+        "trescPytania": "Jak Ci się pracuje z ocenianym pracownikiem?",
+        "opisPytania": "Ocena w skali od 1-6, gdzie 6 jest oceną najwyższą",
+        "typPytania": "Gwiazda"
+    },
+    {
+        "idPytania": 2,
+        "trescPytania": "Jak oceniasz efekty pracy pracownika (jakość kodu w przypadku programisty/ jakość dokumentacji w przypadku analityka/ jakość testów w przypadku testerów)?",
+        "opisPytania": "Ocena w skali od 1-6, gdzie 6 jest oceną najwyższą",
+        "typPytania": "Gwiazda"
+    },
+    {
+        "idPytania": 3,
+        "trescPytania": "Jak oceniasz ocenianego pracownika na tle zespołu?",
+        "opisPytania": "",
+        "typPytania": "Otwarte"
+    },
+    {
+        "idPytania": 4,
+        "trescPytania": "Co pozytywnego wnosi oceniany pracownik do zespołu?",
+        "opisPytania": "",
+        "typPytania": "Otwarte"
+    },
+    {
+        "idPytania": 5,
+        "trescPytania": "Opisz tę osobę, wykorzystując tylko 5 słów.",
+        "opisPytania": "",
+        "typPytania": "Otwarte"
+    }
+    
+]
